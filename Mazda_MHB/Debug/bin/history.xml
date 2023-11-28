@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=Mazda_MHB.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\Mazda_CX30_Monitoring_Hybrid_Battery -TC:\CooCox\CoIDE\configuration\ProgramData\Mazda_CX30_Monitoring_Hybrid_Battery/arm-gcc-link.ld -g">
+      <target file="Mazda_MHB.elf" lastModified="18c14eeece5">
+         <source file="..\obj\stm32f10x_tim.o" lastModified="18c14eee27f"/>
+         <source file="..\obj\core_cm3.o" lastModified="18c14eee2c9"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="18c14eee317"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="18c14eee374"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="18c14eee47b"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="18c14eee508"/>
+         <source file="..\obj\main.o" lastModified="18c14eee589"/>
+         <source file="..\obj\can.o" lastModified="18c14eee60b"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="18c14eee695"/>
+         <source file="..\obj\fonts.o" lastModified="18c14eee72a"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="18c14eee7ca"/>
+         <source file="..\obj\syscalls.o" lastModified="18c14eee843"/>
+         <source file="..\obj\ssd1306_i2c.o" lastModified="18c14eee8bf"/>
+         <source file="..\obj\misc.o" lastModified="18c14eee945"/>
+         <source file="..\obj\ssd1306.o" lastModified="18c14eeea3d"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="18c14eeeace"/>
+      </target>
+   </processor>
+</history>

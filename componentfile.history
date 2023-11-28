@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<History> 
+  <File usedCount="2" path="cmsis_boot/startup/startup_stm32f10x_md_vl.c"/>  
+  <File usedCount="3" path="cmsis_boot/stm32f10x.h"/>  
+  <File usedCount="3" path="cmsis_boot/stm32f10x_conf.h"/>  
+  <File usedCount="3" path="cmsis_boot/system_stm32f10x.c"/>  
+  <File usedCount="3" path="cmsis_boot/system_stm32f10x.h"/>  
+  <File usedCount="2" path="cmsis/core_cm3.h"/>  
+  <File usedCount="2" path="syscalls/syscalls.c"/>  
+  <File usedCount="2" path="cmsis_boot/startup/startup_stm32f10x_md.c"/> 
+</History>
